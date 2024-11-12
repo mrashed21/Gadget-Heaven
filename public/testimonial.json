@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Aminul Haque",
+    "city": "Dhaka",
+    "description": "Excellent product quality and fast delivery. Highly recommended!",
+    "date": "2023-10-15",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "rating": 4.5
+  },
+  {
+    "name": "Razia Khatun",
+    "city": "Chittagong",
+    "description": "I am very satisfied with the purchase. Customer service was also great.",
+    "date": "2023-11-01",
+    "image": "https://randomuser.me/api/portraits/women/1.jpg",
+    "rating": 5
+  },
+  {
+    "name": "Mahmudul Islam",
+    "city": "Sylhet",
+    "description": "Good value for money. Will definitely order again!",
+    "date": "2023-11-05",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg",
+    "rating": 4
+  },
+  {
+    "name": "Sharmin Akter",
+    "city": "Rajshahi",
+    "description": "The quality is very good! Well packaged and on time.",
+    "date": "2023-11-02",
+    "image": "https://randomuser.me/api/portraits/women/2.jpg",
+    "rating": 4.2
+  },
+  {
+    "name": "Nayeem Chowdhury",
+    "city": "Barisal",
+    "description": "Fast delivery and great customer support. Will recommend to friends!",
+    "date": "2023-11-03",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "rating": 4.8
+  },
+  {
+    "name": "Mariam Begum",
+    "city": "Khulna",
+    "description": "Absolutely loved it! High-quality and at a reasonable price.",
+    "date": "2023-11-04",
+    "image": "https://randomuser.me/api/portraits/women/3.jpg",
+    "rating": 3.5
+  }
+]

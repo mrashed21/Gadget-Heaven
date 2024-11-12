@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": "1",
+    "product_title": "High-Performance Laptop",
+    "product_image": "https://i.ibb.co.com/bKCXhb1/High-Performance-Laptop.jpg",
+    "category": "Computer",
+    "price": 1200,
+    "description": "A powerful laptop suitable for all your work and gaming needs.",
+    "specification": ["Intel i7", "16GB RAM", "512GB SSD", "NVIDIA GTX 1650"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "2",
+    "product_title": "Gaming Desktop",
+    "product_image": "https://i.ibb.co.com/ZxgfZKk/Gaming-Desktop.jpg",
+    "category": "Computer",
+    "price": 1500,
+    "description": "High-performance desktop for gaming and intensive tasks.",
+    "specification": ["Intel i9", "32GB RAM", "1TB SSD", "NVIDIA RTX 3080"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "3",
+    "product_title": "Portable Ultrabook",
+    "product_image": "https://i.ibb.co.com/sjyMJJ4/Portable-Ultrabook.jpg",
+    "category": "Computer",
+    "price": 950,
+    "description": "Lightweight ultrabook with long battery life and high performance.",
+    "specification": ["Intel i5", "8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "4",
+    "product_title": "Budget Desktop PC",
+    "product_image": "https://i.ibb.co.com/wSqqYLL/Budget-Desktop-PC.jpg",
+    "category": "Computer",
+    "price": 700,
+    "description": "Affordable desktop PC suitable for everyday tasks.",
+    "specification": ["AMD Ryzen 5", "8GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": "5",
+    "product_title": "All-in-One Computer",
+    "product_image": "https://i.ibb.co.com/SRZhS2Y/All-in-One-Computer.jpg",
+    "category": "Computer",
+    "price": 1100,
+    "description": "Space-saving all-in-one computer with sleek design.",
+    "specification": ["Intel i7", "16GB RAM", "1TB HDD", "Touchscreen"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "6",
+    "product_title": "Workstation Laptop",
+    "product_image": "https://i.ibb.co.com/mRrkw1B/Workstation-Laptop.jpg",
+    "category": "Computer",
+    "price": 1400,
+    "description": "Powerful workstation laptop for design and engineering tasks.",
+    "specification": ["Intel Xeon", "32GB RAM", "1TB SSD", "Quadro GPU"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "7",
+    "product_title": "Smartphone X",
+    "product_image": "https://i.ibb.co.com/sjgXJGf/Smartphone-X.jpg",
+    "category": "Phone",
+    "price": 850,
+    "description": "A sleek smartphone with excellent performance and camera quality.",
+    "specification": [
+      "128GB Storage",
+      "6.5-inch Display",
+      "Triple Camera",
+      "5G Compatible"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "8",
+    "product_title": "Budget Smartphone Y",
+    "product_image": "https://i.ibb.co.com/T8QqxMb/Budget-Smartphone-Y.jpg",
+    "category": "Phone",
+    "price": 300,
+    "description": "Affordable smartphone with essential features.",
+    "specification": ["64GB Storage", "5.8-inch Display", "Dual Camera"],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "product_id": "9",
+    "product_title": "Smartwatch Pro",
+    "product_image": "https://i.ibb.co.com/bmdR9Vh/Smartwatch-Pro.jpg",
+    "category": "Smart Watch",
+    "price": 300,
+    "description": "A smartwatch with fitness tracking and mobile connectivity.",
+    "specification": [
+      "Heart Rate Monitor",
+      "GPS",
+      "Water-Resistant",
+      "Bluetooth"
+    ],
+    "availability": true,
+    "rating": 4.0
+  },
+  {
+    "product_id": "10",
+    "product_title": "Fitness Smartwatch Lite",
+    "product_image": "https://i.ibb.co.com/9czZCTQ/Fitness-Smartwatch-Lite.jpg",
+    "category": "Smart Watch",
+    "price": 200,
+    "description": "Lightweight smartwatch focused on fitness tracking.",
+    "specification": ["Step Counter", "Calorie Tracker", "Sleep Monitor"],
+    "availability": false,
+    "rating": 3.8
+  }
+]

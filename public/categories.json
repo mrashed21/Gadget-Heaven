@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Computer", "category": "Computer" },
+  { "id": 2, "name": "Accessories", "category": "Accessories" },
+  { "id": 3, "name": "Phone", "category": "Phone" },
+  { "id": 4, "name": "Smart Watch", "category": "Smart Watch" },
+  { "id": 5, "name": "MacBook", "category": "MacBook" }
+]
